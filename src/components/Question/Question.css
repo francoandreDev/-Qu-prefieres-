@@ -1,0 +1,16 @@
+.question-container {
+    margin-bottom: 5em;
+}
+
+.question {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--color-accent);
+    -webkit-text-stroke: 1px var(--color-text);
+}
+
+.number-question {
+    font-size: 32px;
+}

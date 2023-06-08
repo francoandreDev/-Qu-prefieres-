@@ -1,0 +1,12 @@
+.highlight-wrapper {
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+  }
+
+  .highlight-content {
+    position: relative;
+    z-index: 1;
+  }
