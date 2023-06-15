@@ -1,5 +1,3 @@
-import React from 'react';
-
 import './Restart.css';
 
 interface RestartProps {
@@ -7,13 +5,12 @@ interface RestartProps {
 }
 
 const Restart: React.FC<RestartProps> = ({ onRestart }) => {
-    return (
-        <div className="restart">
-            <button className="restart-button" onClick={onRestart}>
-                Volver a empezar
-            </button>
-        </div>
+    const restartButton = (
+        <button className="restart-button" onClick={onRestart}>
+            Volver a empezar
+        </button>
     );
+    return <div className="restart">{restartButton}</div>;
 };
 
 export default Restart;

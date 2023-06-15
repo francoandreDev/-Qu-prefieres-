@@ -14,15 +14,17 @@ const ImageSkeleton: React.FC<{
         }, 100);
     }, []);
 
-    if (!isLoading) {
-        return <img className={className} src={src} alt={alt} />;
-    } else {
-        return (
+    let element = <img className={className} src={src} alt={alt} />;
+
+    if (isLoading) {
+        element = (
             <div className="image-skeleton">
                 <div className={`skeleton-animation ${className}`}></div>
             </div>
         );
     }
+
+    return element;
 };
 
 export default ImageSkeleton;
