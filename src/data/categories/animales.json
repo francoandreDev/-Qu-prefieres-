@@ -6,12 +6,12 @@
             {
                 "id": 11,
                 "text": "Perro",
-                "image": "https://example.com/dog.jpg"
+                "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGVycm98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 12,
                 "text": "Gato",
-                "image": "https://example.com/cat.jpg"
+                "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z2F0b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -22,12 +22,12 @@
             {
                 "id": 21,
                 "text": "León",
-                "image": "https://example.com/lion.jpg"
+                "image": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGxlb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 22,
                 "text": "Delfín",
-                "image": "https://example.com/dolphin.jpg"
+                "image": "https://images.unsplash.com/photo-1547382442-d17c21625a44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZGVsZmlufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -38,12 +38,12 @@
             {
                 "id": 31,
                 "text": "Terrestres",
-                "image": "https://example.com/land_animals.jpg"
+                "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGFuaW1hbCUyMHRlcnJlc3RyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 32,
                 "text": "Acuáticos",
-                "image": "https://example.com/aquatic_animals.jpg"
+                "image": "https://images.unsplash.com/photo-1599601619121-1b6e770b15ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YW5pbWFsJTIwYWN1YXRpY298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -54,12 +54,12 @@
             {
                 "id": 41,
                 "text": "Águila",
-                "image": "https://example.com/eagle.jpg"
+                "image": "https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWd1aWxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 42,
                 "text": "Pingüino",
-                "image": "https://example.com/penguin.jpg"
+                "image": "https://images.unsplash.com/photo-1551986782-d0169b3f8fa7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGluZ3Vpbm98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -70,12 +70,12 @@
             {
                 "id": 51,
                 "text": "Serpiente",
-                "image": "https://example.com/snake.jpg"
+                "image": "https://images.unsplash.com/photo-1571391733814-15ac29ac3544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNlcnBpZW50ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 52,
                 "text": "Tucán",
-                "image": "https://example.com/toucan.jpg"
+                "image": "https://images.unsplash.com/photo-1571765387319-6a48ea922403?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dHVjYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -86,12 +86,12 @@
             {
                 "id": 61,
                 "text": "Delfín",
-                "image": "https://example.com/dolphin.jpg"
+                "image": "https://images.unsplash.com/photo-1575150583276-94ed8ce63ae5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGVsZmlufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 62,
                 "text": "Chimpancé",
-                "image": "https://example.com/chimpanzee.jpg"
+                "image": "https://images.unsplash.com/photo-1595786455945-3075a7c25be6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNoaW1wYW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -102,12 +102,12 @@
             {
                 "id": 71,
                 "text": "Ballena",
-                "image": "https://example.com/whale.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1664304436617-7d72c48d0222?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFsbGVuYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 72,
                 "text": "Tiburón",
-                "image": "https://example.com/shark.jpg"
+                "image": "https://images.unsplash.com/photo-1531959870249-9f9b729efcf4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGlidXJvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -118,12 +118,12 @@
             {
                 "id": 81,
                 "text": "Grandes",
-                "image": "https://example.com/big_animals.jpg"
+                "image": "https://images.unsplash.com/photo-1619843255114-29fec250924e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyYW5kZSUyMGFuaW1hbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 82,
                 "text": "Pequeños",
-                "image": "https://example.com/small_animals.jpg"
+                "image": "https://images.unsplash.com/photo-1601138052805-296bcfa3b28c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVxdWUlQzMlQjFvJTIwYW5pbWFsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -133,13 +133,13 @@
         "options": [
             {
                 "id": 91,
-                "text": "Animales de granja",
-                "image": "https://example.com/farm_animals.jpg"
+                "text": "Granja",
+                "image": "https://images.unsplash.com/photo-1454179083322-198bb4daae41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGdyYW5qYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 92,
-                "text": "Animales salvajes",
-                "image": "https://example.com/wild_animals.jpg"
+                "text": "Salvajes",
+                "image": "https://images.unsplash.com/photo-1564166174574-a9666f590437?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FsdmFqZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -150,12 +150,12 @@
             {
                 "id": 101,
                 "text": "Tortuga",
-                "image": "https://example.com/turtle.jpg"
+                "image": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dG9ydHVnYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 102,
                 "text": "Cocodrilo",
-                "image": "https://example.com/crocodile.jpg"
+                "image": "https://images.unsplash.com/photo-1608321412201-377ea447f433?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29jb2RyaWxvfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     }

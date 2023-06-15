@@ -6,12 +6,12 @@
             {
                 "id": 11,
                 "text": "Jungla",
-                "image": "https://example.com/jungle.jpg"
+                "image": "https://images.unsplash.com/photo-1560851691-ebb64b584d3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGp1bmdsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 12,
                 "text": "Montañas",
-                "image": "https://example.com/mountains.jpg"
+                "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9udGElQzMlQjFhc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -21,13 +21,13 @@
         "options": [
             {
                 "id": 21,
-                "text": "Machu Picchu, Perú",
-                "image": "https://example.com/machu_picchu.jpg"
+                "text": "Machu Picchu",
+                "image": "https://images.unsplash.com/photo-1509216242873-7786f446f465?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFjY2h1JTIwcGljY2h1fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 22,
-                "text": "Gran Cañón, Estados Unidos",
-                "image": "https://example.com/grand_canyon.jpg"
+                "text": "Gran Cañón",
+                "image": "https://images.unsplash.com/photo-1531694611353-d4758f86fa6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3JhbiUyMGNhJUMzJUIxb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -38,12 +38,12 @@
             {
                 "id": 31,
                 "text": "Acuática",
-                "image": "https://example.com/water_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1682687982107-14492010e05e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXZlbnR1cmElMjBhY3VhdGljYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 32,
                 "text": "Desierto",
-                "image": "https://example.com/desert_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1682687220975-7b2df674d3ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8ZGVzaWVydG98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -54,12 +54,12 @@
             {
                 "id": 41,
                 "text": "Sí",
-                "image": "https://example.com/adrenaline.jpg"
+                "image": "https://images.unsplash.com/photo-1472209786600-da381f0d171b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWRyZW5hbGluYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 42,
                 "text": "No",
-                "image": "https://example.com/no_adrenaline.jpg"
+                "image": "https://images.unsplash.com/photo-1559636927-962b511f8cb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fHNpbiUyMGFkcmVuYWxpbmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -70,12 +70,12 @@
             {
                 "id": 51,
                 "text": "Selva",
-                "image": "https://example.com/jungle_adventure.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1674539249731-62b047824f06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2VsdmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 52,
                 "text": "Ciudad",
-                "image": "https://example.com/city_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l1ZGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -86,12 +86,12 @@
             {
                 "id": 61,
                 "text": "Rafting",
-                "image": "https://example.com/rafting.jpg"
+                "image": "https://images.unsplash.com/photo-1629248457649-b082812aea6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFmdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 62,
                 "text": "Escalada",
-                "image": "https://example.com/climbing.jpg"
+                "image": "https://images.unsplash.com/photo-1578886141033-b9f066572135?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXNjYWxhZGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -102,12 +102,12 @@
             {
                 "id": 71,
                 "text": "Bosque",
-                "image": "https://example.com/forest_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1511497584788-876760111969?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9zcXVlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 72,
                 "text": "Isla desierta",
-                "image": "https://example.com/island_adventure.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1681255760445-e067e0f1a08f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXNsYSUyMGRlc2llcnRhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -118,12 +118,12 @@
             {
                 "id": 81,
                 "text": "Sí",
-                "image": "https://example.com/safari.jpg"
+                "image": "https://images.unsplash.com/photo-1498038116800-4159eb9b2a62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2FmYXJpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 82,
                 "text": "No",
-                "image": "https://example.com/no_safari.jpg"
+                "image": "https://images.unsplash.com/photo-1599825919241-ace91951e68c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVzY2Fuc298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -134,12 +134,12 @@
             {
                 "id": 91,
                 "text": "Nieve",
-                "image": "https://example.com/snow_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1485594050903-8e8ee7b071a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fG5pZXZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 92,
                 "text": "Mar",
-                "image": "https://example.com/sea_adventure.jpg"
+                "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -150,12 +150,12 @@
             {
                 "id": 101,
                 "text": "Sí",
-                "image": "https://example.com/parachuting.jpg"
+                "image": "https://images.unsplash.com/photo-1601024445121-e5b82f020549?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFyYWNhaWRpc21vfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 102,
                 "text": "No",
-                "image": "https://example.com/no_parachuting.jpg"
+                "image": "https://images.unsplash.com/photo-1652890871466-c8bb405646f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9jaGlsYSUyMHBhcmFjYWlkYXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     }

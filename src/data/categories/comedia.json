@@ -69,12 +69,12 @@
         "options": [
             {
                 "id": 51,
-                "text": "Comedias de improvisación",
+                "text": "Improvisación",
                 "image": "https://example.com/improv_comedies.jpg"
             },
             {
                 "id": 52,
-                "text": "Comedias de diálogos ingeniosos",
+                "text": "Diálogos ingeniosos",
                 "image": "https://example.com/witty_dialogue_comedies.jpg"
             }
         ]
@@ -101,12 +101,12 @@
         "options": [
             {
                 "id": 71,
-                "text": "Comedias de situación familiar",
+                "text": "Situación familiar",
                 "image": "https://example.com/family_sitcoms.jpg"
             },
             {
                 "id": 72,
-                "text": "Comedias irreverentes",
+                "text": "Irreverentes",
                 "image": "https://example.com/irreverent_comedies.jpg"
             }
         ]
@@ -133,12 +133,12 @@
         "options": [
             {
                 "id": 91,
-                "text": "Comedias de personajes excéntricos",
+                "text": "Personajes excéntricos",
                 "image": "https://example.com/eccentric_characters_comedies.jpg"
             },
             {
                 "id": 92,
-                "text": "Comedias de situaciones embarazosas",
+                "text": "Situaciones embarazosas",
                 "image": "https://example.com/awkward_situations_comedies.jpg"
             }
         ]

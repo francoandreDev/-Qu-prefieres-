@@ -6,12 +6,12 @@
             {
                 "id": 11,
                 "text": "Ciencia",
-                "image": "https://example.com/science.jpg"
+                "image": "https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2llbmNpYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 12,
                 "text": "Historia",
-                "image": "https://example.com/history.jpg"
+                "image": "https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhpc3RvcmlhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -22,12 +22,12 @@
             {
                 "id": 21,
                 "text": "Literatura",
-                "image": "https://example.com/literature.jpg"
+                "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGl0ZXJhdHVyYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 22,
                 "text": "Música",
-                "image": "https://example.com/music.jpg"
+                "image": "https://images.unsplash.com/photo-1477233534935-f5e6fe7c1159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG11c2ljYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -38,12 +38,12 @@
             {
                 "id": 31,
                 "text": "Matemáticas",
-                "image": "https://example.com/mathematics.jpg"
+                "image": "https://images.unsplash.com/photo-1574607383077-47ddc2dc51c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hdGVtYXRpY2FzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 32,
                 "text": "Filosofía",
-                "image": "https://example.com/philosophy.jpg"
+                "image": "https://images.unsplash.com/photo-1593240637899-5fc06c754c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zmlsb3NvZmlhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -54,12 +54,12 @@
             {
                 "id": 41,
                 "text": "Astronomía",
-                "image": "https://example.com/astronomy.jpg"
+                "image": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXN0cm9ub21pYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 42,
                 "text": "Psicología",
-                "image": "https://example.com/psychology.jpg"
+                "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBzaWNvbG9naWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -70,12 +70,12 @@
             {
                 "id": 51,
                 "text": "Tecnología",
-                "image": "https://example.com/technology.jpg"
+                "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVjb25vbG9naWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 52,
                 "text": "Arte",
-                "image": "https://example.com/art.jpg"
+                "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXJ0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -86,12 +86,12 @@
             {
                 "id": 61,
                 "text": "Biología",
-                "image": "https://example.com/biology.jpg"
+                "image": "https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YmlvbG9naWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 62,
                 "text": "Economía",
-                "image": "https://example.com/economics.jpg"
+                "image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWNvbm9taWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -102,12 +102,12 @@
             {
                 "id": 71,
                 "text": "Geografía",
-                "image": "https://example.com/geography.jpg"
+                "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VvZ3JhZmlhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 72,
                 "text": "Política",
-                "image": "https://example.com/politics.jpg"
+                "image": "https://images.unsplash.com/photo-1555848962-6e79363ec58f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9saXRpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -118,12 +118,12 @@
             {
                 "id": 81,
                 "text": "Lingüística",
-                "image": "https://example.com/linguistics.jpg"
+                "image": "https://images.unsplash.com/photo-1563509769909-174be967b5df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGluZ3Vpc3RpY2F8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 82,
                 "text": "Sociología",
-                "image": "https://example.com/sociology.jpg"
+                "image": "https://images.unsplash.com/photo-1571988863304-cfb59874487c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29jaWVkYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -134,12 +134,12 @@
             {
                 "id": 91,
                 "text": "Medicina",
-                "image": "https://example.com/medicine.jpg"
+                "image": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1lZGljaW5hfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 92,
                 "text": "Educación",
-                "image": "https://example.com/education.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1682787494977-d013bb5a8773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fGVkdWNhY2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
         ]
     },
@@ -150,12 +150,12 @@
             {
                 "id": 101,
                 "text": "Física",
-                "image": "https://example.com/physics.jpg"
+                "image": "https://images.unsplash.com/photo-1607988795691-3d0147b43231?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGZpc2ljYSUyMG1hdGVtYXRpY2F8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
                 "id": 102,
                 "text": "Antropología",
-                "image": "https://example.com/anthropology.jpg"
+                "image": "https://images.unsplash.com/photo-1596944888294-09859672c4c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNvY2llZGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
             }
         ]
     }
