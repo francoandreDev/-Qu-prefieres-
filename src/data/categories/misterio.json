@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres las novelas de detectives o los thrillers psicológicos?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Novelas de detectives",
+                "image": "https://example.com/detective_novels.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Thrillers psicológicos",
+                "image": "https://example.com/psychological_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gustan los enigmas y acertijos?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/riddles.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_riddles.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los asesinatos en serie o los casos de desapariciones misteriosas?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Asesinatos en serie",
+                "image": "https://example.com/serial_killers.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Desapariciones misteriosas",
+                "image": "https://example.com/mysterious_disappearances.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta resolver misterios?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/mystery_solving.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_mystery_solving.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres los thrillers de conspiraciones o los casos de robos perfectos?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Thrillers de conspiraciones",
+                "image": "https://example.com/conspiracy_thrillers.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Casos de robos perfectos",
+                "image": "https://example.com/perfect_heists.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gustan los personajes ambiguos y misteriosos?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/mysterious_characters.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_mysterious_characters.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres los misterios sobrenaturales o los misterios realistas?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Misterios sobrenaturales",
+                "image": "https://example.com/supernatural_mysteries.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Misterios realistas",
+                "image": "https://example.com/realistic_mysteries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustan las novelas de suspense?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/suspense_novels.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_suspense_novels.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los detectives solitarios o los equipos de investigación?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Detectives solitarios",
+                "image": "https://example.com/lonewolf_detectives.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Equipos de investigación",
+                "image": "https://example.com/investigation_teams.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta resolver casos sin resolver?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/unsolved_cases.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_unsolved_cases.jpg"
+            }
+        ]
+    }
+]

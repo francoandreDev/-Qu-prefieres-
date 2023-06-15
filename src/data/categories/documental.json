@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres los documentales históricos o los documentales científicos?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Documentales históricos",
+                "image": "https://example.com/historical_documentaries.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Documentales científicos",
+                "image": "https://example.com/scientific_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te interesan más los documentales de naturaleza o los documentales sociales?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Documentales de naturaleza",
+                "image": "https://example.com/nature_documentaries.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Documentales sociales",
+                "image": "https://example.com/social_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los documentales biográficos o los documentales de viajes?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Documentales biográficos",
+                "image": "https://example.com/biographical_documentaries.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Documentales de viajes",
+                "image": "https://example.com/travel_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gustan más los documentales de tecnología o los documentales de arte?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Documentales de tecnología",
+                "image": "https://example.com/technology_documentaries.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Documentales de arte",
+                "image": "https://example.com/art_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres los documentales de música o los documentales deportivos?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Documentales de música",
+                "image": "https://example.com/music_documentaries.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Documentales deportivos",
+                "image": "https://example.com/sports_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te interesan más los documentales políticos o los documentales de ciencia y tecnología?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Documentales políticos",
+                "image": "https://example.com/political_documentaries.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Documentales de ciencia y tecnología",
+                "image": "https://example.com/science_technology_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres los documentales sobre crímenes reales o los documentales de medio ambiente?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Documentales sobre crímenes reales",
+                "image": "https://example.com/true_crime_documentaries.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Documentales de medio ambiente",
+                "image": "https://example.com/environment_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustan más los documentales sobre historia del arte o los documentales sobre fenómenos naturales?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Documentales sobre historia del arte",
+                "image": "https://example.com/art_history_documentaries.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Documentales sobre fenómenos naturales",
+                "image": "https://example.com/natural_phenomena_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los documentales sobre gastronomía o los documentales sobre exploración espacial?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Documentales sobre gastronomía",
+                "image": "https://example.com/gastronomy_documentaries.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Documentales sobre exploración espacial",
+                "image": "https://example.com/space_exploration_documentaries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te interesan más los documentales sobre religión o los documentales sobre derechos humanos?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Documentales sobre religión",
+                "image": "https://example.com/religion_documentaries.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Documentales sobre derechos humanos",
+                "image": "https://example.com/human_rights_documentaries.jpg"
+            }
+        ]
+    }
+]

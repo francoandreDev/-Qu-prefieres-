@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres los dramas románticos o los dramas históricos?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Dramas románticos",
+                "image": "https://example.com/romantic_dramas.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Dramas históricos",
+                "image": "https://example.com/historical_dramas.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gustan las películas basadas en hechos reales?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/true_story_movies.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_true_story_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los dramas familiares o los dramas sociales?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Dramas familiares",
+                "image": "https://example.com/family_dramas.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Dramas sociales",
+                "image": "https://example.com/social_dramas.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta el cine de autor y las películas artísticas?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/artistic_movies.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_artistic_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres los dramas psicológicos o los dramas de época?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Dramas psicológicos",
+                "image": "https://example.com/psychological_dramas.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Dramas de época",
+                "image": "https://example.com/period_dramas.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gustan las películas que abordan temas sociales importantes?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/social_issue_movies.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_social_issue_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres los dramas de guerra o los dramas de superación personal?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Dramas de guerra",
+                "image": "https://example.com/war_dramas.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Dramas de superación personal",
+                "image": "https://example.com/personal_growth_dramas.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta el cine indie y las películas de bajo presupuesto?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/indie_movies.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_indie_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los dramas basados en libros o los dramas originales?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Dramas basados en libros",
+                "image": "https://example.com/book_adaptation_dramas.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Dramas originales",
+                "image": "https://example.com/original_dramas.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gustan las películas con finales impactantes y emotivos?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/emotional_endings_movies.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_emotional_endings_movies.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Te gustan más las películas de suspenso psicológico o las películas de suspenso de acción?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Películas de suspenso psicológico",
+                "image": "https://example.com/psychological_thrillers.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Películas de suspenso de acción",
+                "image": "https://example.com/action_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Prefieres las películas de suspenso de misterio o las películas de suspenso sobrenatural?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Películas de suspenso de misterio",
+                "image": "https://example.com/mystery_thrillers.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Películas de suspenso sobrenatural",
+                "image": "https://example.com/supernatural_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Te interesan más las películas de suspenso de conspiraciones o las películas de suspenso de espionaje?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Películas de suspenso de conspiraciones",
+                "image": "https://example.com/conspiracy_thrillers.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Películas de suspenso de espionaje",
+                "image": "https://example.com/spy_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Prefieres las películas de suspenso de asesinatos o las películas de suspenso de secuestros?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Películas de suspenso de asesinatos",
+                "image": "https://example.com/murder_thrillers.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Películas de suspenso de secuestros",
+                "image": "https://example.com/kidnapping_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Te gustan más las películas de suspenso de venganza o las películas de suspenso de persecución?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Películas de suspenso de venganza",
+                "image": "https://example.com/revenge_thrillers.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Películas de suspenso de persecución",
+                "image": "https://example.com/chase_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Prefieres las películas de suspenso de desapariciones o las películas de suspenso de chantaje?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Películas de suspenso de desapariciones",
+                "image": "https://example.com/disappearance_thrillers.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Películas de suspenso de chantaje",
+                "image": "https://example.com/blackmail_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Te interesan más las películas de suspenso de intriga o las películas de suspenso de robo?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Películas de suspenso de intriga",
+                "image": "https://example.com/intrigue_thrillers.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Películas de suspenso de robo",
+                "image": "https://example.com/heist_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Prefieres las películas de suspenso de traiciones o las películas de suspenso de persecución policial?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Películas de suspenso de traiciones",
+                "image": "https://example.com/betrayal_thrillers.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Películas de suspenso de persecución policial",
+                "image": "https://example.com/police_chase_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Te gustan más las películas de suspenso de terror psicológico o las películas de suspenso de huida?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Películas de suspenso de terror psicológico",
+                "image": "https://example.com/psychological_horror_thrillers.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Películas de suspenso de huida",
+                "image": "https://example.com/escape_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Prefieres las películas de suspenso de infiltración o las películas de suspenso de supervivencia?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Películas de suspenso de infiltración",
+                "image": "https://example.com/infiltration_thrillers.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Películas de suspenso de supervivencia",
+                "image": "https://example.com/survival_thrillers.jpg"
+            }
+        ]
+    }
+]

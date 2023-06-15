@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres vivir en una casa o en un apartamento?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Casa",
+                "image": "https://example.com/house.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Apartamento",
+                "image": "https://example.com/apartment.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Cuál es tu estilo arquitectónico favorito?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Moderno",
+                "image": "https://example.com/modern_architecture.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Clásico",
+                "image": "https://example.com/classic_architecture.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres una casa en la ciudad o en el campo?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Ciudad",
+                "image": "https://example.com/city_house.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Campo",
+                "image": "https://example.com/countryside_house.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta tener jardín en tu casa?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/garden.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_garden.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres una casa de una planta o de múltiples plantas?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Una planta",
+                "image": "https://example.com/one_floor_house.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Múltiples plantas",
+                "image": "https://example.com/multi_floor_house.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Qué tipo de tejado te gusta más?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Tejado a dos aguas",
+                "image": "https://example.com/gable_roof.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Tejado plano",
+                "image": "https://example.com/flat_roof.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres una casa con piscina o con jardín amplio?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Piscina",
+                "image": "https://example.com/swimming_pool.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Jardín amplio",
+                "image": "https://example.com/spacious_garden.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustaría vivir en una casa ecológica?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/eco_house.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/non_eco_house.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres una casa con chimenea o con balcón?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Chimenea",
+                "image": "https://example.com/fireplace.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Balcón",
+                "image": "https://example.com/balcony.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gustan las casas con diseño minimalista?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/minimalist_design.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/non_minimalist_design.jpg"
+            }
+        ]
+    }
+]

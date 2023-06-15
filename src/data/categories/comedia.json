@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres las comedias románticas o las comedias de enredos?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Comedias románticas",
+                "image": "https://example.com/romantic_comedies.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Comedias de enredos",
+                "image": "https://example.com/screwball_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gustan las películas de parodia?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/parody_movies.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_parody_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres las comedias de situación o las comedias de sketchs?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Comedias de situación",
+                "image": "https://example.com/sitcoms.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Comedias de sketchs",
+                "image": "https://example.com/sketch_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta el humor físico y slapstick?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/physical_humor.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_physical_humor.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres las comedias de improvisación o las comedias de diálogos ingeniosos?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Comedias de improvisación",
+                "image": "https://example.com/improv_comedies.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Comedias de diálogos ingeniosos",
+                "image": "https://example.com/witty_dialogue_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gustan las películas de humor absurdo?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/absurd_comedies.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_absurd_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres las comedias de situación familiar o las comedias irreverentes?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Comedias de situación familiar",
+                "image": "https://example.com/family_sitcoms.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Comedias irreverentes",
+                "image": "https://example.com/irreverent_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta el humor sarcástico?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/sarcastic_humor.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_sarcastic_humor.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres las comedias de personajes excéntricos o las comedias de situaciones embarazosas?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Comedias de personajes excéntricos",
+                "image": "https://example.com/eccentric_characters_comedies.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Comedias de situaciones embarazosas",
+                "image": "https://example.com/awkward_situations_comedies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta el humor autodepreciativo?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/self_deprecating_humor.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_self_deprecating_humor.jpg"
+            }
+        ]
+    }
+]

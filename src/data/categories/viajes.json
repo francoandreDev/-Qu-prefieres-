@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres la playa o la montaña?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Playa",
+                "image": "https://example.com/beach.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Montaña",
+                "image": "https://example.com/mountain.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gusta viajar en avión?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/airplane.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_airplane.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres viajar en coche o en tren?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Coche",
+                "image": "https://example.com/car.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Tren",
+                "image": "https://example.com/train.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta explorar nuevas culturas?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/new_cultures.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_new_cultures.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres un viaje de aventura o un viaje relajante?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Aventura",
+                "image": "https://example.com/adventure.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Relajante",
+                "image": "https://example.com/relaxation.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gusta hacer turismo en ciudades?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/city_tourism.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_city_tourism.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres viajar solo o en compañía?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Solo",
+                "image": "https://example.com/solo_travel.jpg"
+            },
+            {
+                "id": 72,
+                "text": "En compañía",
+                "image": "https://example.com/travel_with_companions.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta visitar monumentos históricos?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/historical_monuments.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_historical_monuments.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres un viaje de larga duración o un viaje corto?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Larga duración",
+                "image": "https://example.com/long_duration_travel.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Corto",
+                "image": "https://example.com/short_travel.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta probar la comida local cuando viajas?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/local_food.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_local_food.jpg"
+            }
+        ]
+    }
+]

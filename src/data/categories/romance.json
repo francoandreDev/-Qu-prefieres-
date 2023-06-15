@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres las historias de amor épicas o las comedias románticas?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Amor épico",
+                "image": "https://example.com/epic_love.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Comedia romántica",
+                "image": "https://example.com/romantic_comedy.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Cuál es tu película romántica favorita?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Titanic",
+                "image": "https://example.com/titanic.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Romeo y Julieta",
+                "image": "https://example.com/romeo_juliet.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Te gustan las historias de amor prohibido?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Sí",
+                "image": "https://example.com/forbidden_love.jpg"
+            },
+            {
+                "id": 32,
+                "text": "No",
+                "image": "https://example.com/no_forbidden_love.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Prefieres los finales felices o los finales trágicos en las historias de amor?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Final feliz",
+                "image": "https://example.com/happy_ending.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Final trágico",
+                "image": "https://example.com/tragic_ending.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Cuál es tu canción romántica favorita?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Unchained Melody - The Righteous Brothers",
+                "image": "https://example.com/unchained_melody.jpg"
+            },
+            {
+                "id": 52,
+                "text": "My Heart Will Go On - Celine Dion",
+                "image": "https://example.com/my_heart_will_go_on.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gusta leer novelas románticas?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/romance_novels.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_romance_novels.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres las historias de amor ambientadas en el pasado o en la actualidad?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Pasado",
+                "image": "https://example.com/past_romance.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Actualidad",
+                "image": "https://example.com/modern_romance.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustan las historias de amor con triángulos amorosos?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/love_triangle.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_love_triangle.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres las historias de amor realistas o las fantasiosas?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Realistas",
+                "image": "https://example.com/realistic_romance.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Fantasiosas",
+                "image": "https://example.com/fantasy_romance.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Cuál es tu cita romántica ideal?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Cena romántica a la luz de las velas",
+                "image": "https://example.com/candlelit_dinner.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Paseo romántico por la playa",
+                "image": "https://example.com/beach_walk.jpg"
+            }
+        ]
+    }
+]

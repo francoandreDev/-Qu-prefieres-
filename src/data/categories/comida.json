@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres la comida italiana o la comida mexicana?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Italiana",
+                "image": "https://example.com/italian_food.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Mexicana",
+                "image": "https://example.com/mexican_food.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gusta el sushi?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/sushi.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_sushi.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres la pizza de masa delgada o la pizza de masa gruesa?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Masa delgada",
+                "image": "https://example.com/thin_crust_pizza.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Masa gruesa",
+                "image": "https://example.com/thick_crust_pizza.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta el picante en tus comidas?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/spicy_food.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_spicy_food.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres el pollo frito o el pollo a la parrilla?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Pollo frito",
+                "image": "https://example.com/fried_chicken.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Pollo a la parrilla",
+                "image": "https://example.com/grilled_chicken.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gusta el chocolate?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/chocolate.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_chocolate.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres el café o el té?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Café",
+                "image": "https://example.com/coffee.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Té",
+                "image": "https://example.com/tea.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustan las hamburguesas?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/burger.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_burger.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres el arroz blanco o el arroz integral?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Arroz blanco",
+                "image": "https://example.com/white_rice.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Arroz integral",
+                "image": "https://example.com/brown_rice.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta la comida picante?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/spicy_food.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_spicy_food.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres explorar la jungla o escalar montañas en una aventura?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Jungla",
+                "image": "https://example.com/jungle.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Montañas",
+                "image": "https://example.com/mountains.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Cuál es tu destino de aventura favorito?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Machu Picchu, Perú",
+                "image": "https://example.com/machu_picchu.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Gran Cañón, Estados Unidos",
+                "image": "https://example.com/grand_canyon.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres una aventura acuática o en el desierto?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Acuática",
+                "image": "https://example.com/water_adventure.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Desierto",
+                "image": "https://example.com/desert_adventure.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta la adrenalina en tus aventuras?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/adrenaline.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_adrenaline.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres una aventura en la selva o en la ciudad?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Selva",
+                "image": "https://example.com/jungle_adventure.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Ciudad",
+                "image": "https://example.com/city_adventure.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Cuál es tu actividad de aventura favorita?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Rafting",
+                "image": "https://example.com/rafting.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Escalada",
+                "image": "https://example.com/climbing.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres una aventura en un bosque o en una isla desierta?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Bosque",
+                "image": "https://example.com/forest_adventure.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Isla desierta",
+                "image": "https://example.com/island_adventure.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta la idea de hacer un safari en una aventura?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/safari.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_safari.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres una aventura en la nieve o en el mar?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Nieve",
+                "image": "https://example.com/snow_adventure.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Mar",
+                "image": "https://example.com/sea_adventure.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gustaría hacer paracaidismo en una aventura?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/parachuting.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_parachuting.jpg"
+            }
+        ]
+    }
+]

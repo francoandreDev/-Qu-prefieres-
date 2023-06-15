@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres los dragones o las hadas?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Dragones",
+                "image": "https://example.com/dragons.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Hadas",
+                "image": "https://example.com/faeries.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gusta la magia?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/magic.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_magic.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los mundos subterráneos o los cielos encantados?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Mundos subterráneos",
+                "image": "https://example.com/underground_worlds.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Cielos encantados",
+                "image": "https://example.com/enchanted_skies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gustan los libros de fantasía?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/fantasy_books.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_fantasy_books.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres la magia oscura o la magia de la luz?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Magia oscura",
+                "image": "https://example.com/dark_magic.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Magia de la luz",
+                "image": "https://example.com/light_magic.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gusta la mitología?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/mythology.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_mythology.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres las espadas o los hechizos?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Espadas",
+                "image": "https://example.com/swords.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Hechizos",
+                "image": "https://example.com/spells.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta la fantasía épica?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/epic_fantasy.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_epic_fantasy.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los seres mágicos o los objetos encantados?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Seres mágicos",
+                "image": "https://example.com/magical_creatures.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Objetos encantados",
+                "image": "https://example.com/enchanted_objects.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta la fantasía urbana?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/urban_fantasy.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_urban_fantasy.jpg"
+            }
+        ]
+    }
+]

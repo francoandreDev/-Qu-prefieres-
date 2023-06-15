@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Te interesan más las películas históricas basadas en hechos reales o las películas históricas de ficción?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Películas históricas basadas en hechos reales",
+                "image": "https://example.com/historical_movies_real_events.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Películas históricas de ficción",
+                "image": "https://example.com/historical_movies_fiction.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Prefieres las películas históricas ambientadas en la antigüedad o las películas históricas ambientadas en épocas más modernas?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Películas históricas ambientadas en la antigüedad",
+                "image": "https://example.com/historical_movies_ancient_times.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Películas históricas ambientadas en épocas modernas",
+                "image": "https://example.com/historical_movies_modern_times.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Te gustan más las películas históricas de guerra o las películas históricas de época?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Películas históricas de guerra",
+                "image": "https://example.com/historical_war_movies.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Películas históricas de época",
+                "image": "https://example.com/historical_period_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Prefieres las películas históricas sobre civilizaciones antiguas o las películas históricas sobre eventos históricos importantes?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Películas históricas sobre civilizaciones antiguas",
+                "image": "https://example.com/historical_movies_ancient_civilizations.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Películas históricas sobre eventos históricos importantes",
+                "image": "https://example.com/historical_movies_major_events.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Te interesan más las películas históricas de realeza o las películas históricas de revoluciones?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Películas históricas de realeza",
+                "image": "https://example.com/historical_movies_royalty.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Películas históricas de revoluciones",
+                "image": "https://example.com/historical_movies_revolutions.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Prefieres las películas históricas sobre exploraciones y descubrimientos o las películas históricas sobre imperios y conquistas?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Películas históricas sobre exploraciones y descubrimientos",
+                "image": "https://example.com/historical_movies_explorations.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Películas históricas sobre imperios y conquistas",
+                "image": "https://example.com/historical_movies_empires.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Te interesan más las películas históricas sobre eventos religiosos o las películas históricas sobre avances científicos?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Películas históricas sobre eventos religiosos",
+                "image": "https://example.com/historical_movies_religious_events.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Películas históricas sobre avances científicos",
+                "image": "https://example.com/historical_movies_scientific_advancements.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Prefieres las películas históricas sobre la vida de personajes famosos o las películas históricas sobre grandes acontecimientos?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Películas históricas sobre la vida de personajes famosos",
+                "image": "https://example.com/historical_movies_famous_figures.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Películas históricas sobre grandes acontecimientos",
+                "image": "https://example.com/historical_movies_major_events.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Te gustan más las películas históricas románticas o las películas históricas de guerra?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Películas históricas románticas",
+                "image": "https://example.com/historical_romantic_movies.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Películas históricas de guerra",
+                "image": "https://example.com/historical_war_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Prefieres las películas históricas sobre la vida cotidiana o las películas históricas sobre conspiraciones y secretos?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Películas históricas sobre la vida cotidiana",
+                "image": "https://example.com/historical_movies_daily_life.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Películas históricas sobre conspiraciones y secretos",
+                "image": "https://example.com/historical_movies_conspiracies.jpg"
+            }
+        ]
+    }
+]

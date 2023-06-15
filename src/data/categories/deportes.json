@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres el fútbol o el baloncesto?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Fútbol",
+                "image": "https://example.com/soccer.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Baloncesto",
+                "image": "https://example.com/basketball.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gusta practicar deportes al aire libre?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Sí",
+                "image": "https://example.com/outdoor_sports.jpg"
+            },
+            {
+                "id": 22,
+                "text": "No",
+                "image": "https://example.com/no_outdoor_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los deportes individuales o los deportes en equipo?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Individuales",
+                "image": "https://example.com/individual_sports.jpg"
+            },
+            {
+                "id": 32,
+                "text": "En equipo",
+                "image": "https://example.com/team_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta practicar deportes acuáticos?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/water_sports.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_water_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres los deportes de contacto o los deportes sin contacto?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Deporte de contacto",
+                "image": "https://example.com/contact_sports.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Deporte sin contacto",
+                "image": "https://example.com/non_contact_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gusta el tenis?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Sí",
+                "image": "https://example.com/tennis.jpg"
+            },
+            {
+                "id": 62,
+                "text": "No",
+                "image": "https://example.com/no_tennis.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres los deportes de invierno o los deportes de verano?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Deportes de invierno",
+                "image": "https://example.com/winter_sports.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Deportes de verano",
+                "image": "https://example.com/summer_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta el ciclismo?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Sí",
+                "image": "https://example.com/cycling.jpg"
+            },
+            {
+                "id": 82,
+                "text": "No",
+                "image": "https://example.com/no_cycling.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los deportes de alta intensidad o los deportes más relajados?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Alta intensidad",
+                "image": "https://example.com/high_intensity_sports.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Relajados",
+                "image": "https://example.com/relaxed_sports.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gusta el golf?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Sí",
+                "image": "https://example.com/golf.jpg"
+            },
+            {
+                "id": 102,
+                "text": "No",
+                "image": "https://example.com/no_golf.jpg"
+            }
+        ]
+    }
+]

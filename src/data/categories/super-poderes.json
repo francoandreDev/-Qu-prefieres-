@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Qué superpoder te gustaría tener?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Volar",
+                "image": "https://example.com/fly.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Invisibilidad",
+                "image": "https://example.com/invisibility.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Si pudieras ser un superhéroe, ¿cuál serías?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Spider-Man",
+                "image": "https://example.com/spiderman.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Iron Man",
+                "image": "https://example.com/ironman.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres tener fuerza sobrehumana o súper velocidad?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Fuerza sobrehumana",
+                "image": "https://example.com/strength.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Súper velocidad",
+                "image": "https://example.com/speed.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Si pudieras controlar un elemento, ¿cuál elegirías?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Fuego",
+                "image": "https://example.com/fire.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Agua",
+                "image": "https://example.com/water.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Te gustaría tener la capacidad de leer mentes o ser telepático/a?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Leer mentes",
+                "image": "https://example.com/mind_reading.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Ser telepático/a",
+                "image": "https://example.com/telepathy.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Cuál sería tu disfraz de superhéroe?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Capa y antifaz",
+                "image": "https://example.com/cape_mask.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Traje ajustado y gafas",
+                "image": "https://example.com/tight_suit_glasses.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres tener la capacidad de sanar rápidamente o regenerar extremidades?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Sanar rápidamente",
+                "image": "https://example.com/healing.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Regenerar extremidades",
+                "image": "https://example.com/regeneration.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Si pudieras tener un poder mental, ¿cuál sería?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Telequinesis",
+                "image": "https://example.com/telekinesis.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Control mental",
+                "image": "https://example.com/mind_control.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Te gustaría tener la capacidad de volverte invisible o teletransportarte?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Invisibilidad",
+                "image": "https://example.com/invisibility.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Teletransporte",
+                "image": "https://example.com/teleportation.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Cuál sería tu arma de superhéroe preferida?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Espada láser",
+                "image": "https://example.com/lightsaber.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Arco y flechas",
+                "image": "https://example.com/bow_arrow.jpg"
+            }
+        ]
+    }
+]

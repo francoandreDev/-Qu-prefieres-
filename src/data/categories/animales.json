@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Cuál es tu animal favorito?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Perro",
+                "image": "https://example.com/dog.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Gato",
+                "image": "https://example.com/cat.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Qué animal te parece más fascinante?",
+        "options": [
+            {
+                "id": 21,
+                "text": "León",
+                "image": "https://example.com/lion.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Delfín",
+                "image": "https://example.com/dolphin.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los animales terrestres o acuáticos?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Terrestres",
+                "image": "https://example.com/land_animals.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Acuáticos",
+                "image": "https://example.com/aquatic_animals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Cuál es tu ave favorita?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Águila",
+                "image": "https://example.com/eagle.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Pingüino",
+                "image": "https://example.com/penguin.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Si pudieras tener un animal exótico como mascota, ¿cuál elegirías?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Serpiente",
+                "image": "https://example.com/snake.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Tucán",
+                "image": "https://example.com/toucan.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Qué animal te parece más inteligente?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Delfín",
+                "image": "https://example.com/dolphin.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Chimpancé",
+                "image": "https://example.com/chimpanzee.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Cuál es tu animal marino favorito?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Ballena",
+                "image": "https://example.com/whale.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Tiburón",
+                "image": "https://example.com/shark.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gustan más los animales grandes o los pequeños?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Grandes",
+                "image": "https://example.com/big_animals.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Pequeños",
+                "image": "https://example.com/small_animals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los animales de granja o los salvajes?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Animales de granja",
+                "image": "https://example.com/farm_animals.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Animales salvajes",
+                "image": "https://example.com/wild_animals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Cuál es tu reptil favorito?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Tortuga",
+                "image": "https://example.com/turtle.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Cocodrilo",
+                "image": "https://example.com/crocodile.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+.icon-slider {
+    --width-slider: 6rem;
+    position: absolute;
+    top: calc(90vh - 6rem);
+    left: 0;
+    z-index: 1;
+    width: var(--width-slider);
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: -.5em;
+    background-color: rgba(0, 0, 0, .2);
+    filter: blur(1px);
+    transition: width, height, top 1s cubic-bezier(.30, .25, .40, .90);
+}
+
+.icon-slider:not(:has(.active)):hover {
+    animation: hover-slider .5s ease-in alternate infinite;
+    cursor: pointer;
+}
+
+@keyframes hover-slider {
+    to {
+        width: calc(var(--width-slider) + 1rem);
+    }
+}
+
+.figure {
+    color: transparent;
+    text-shadow: 5px solid hsl(0, 0%, 21%);
+    font-size: 3em;
+}
+
+.menú.inactive {
+    display: none;
+}
+
+.icon-slider:has(.active) {
+    --width-slider: 100vw;
+    height: 100%;
+    top: 0;
+    z-index: 2;
+    filter: blur(0);
+    background-color: hsla(0, 0%, 0%, 0.85);
+    color: white;
+}
+
+.menú.active {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+    justify-content: space-around;
+}
+
+.menú.active>li {
+    list-style: none;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    place-content: center;
+}
+
+.menú.active>li:hover {
+    background-image: linear-gradient(45deg, transparent, rgb(180, 180, 180), transparent);
+    background-size: 400% 400%;
+    animation: background-diagonal 1.5s ease forwards;
+}
+
+@keyframes background-diagonal {
+    from {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    to {
+        background-image: linear-gradient(45deg, transparent, transparent, transparent);
+    }
+}
+
+.current {
+    border: 1px solid crimson
+}
+
+.rest {
+    border: 1px solid transparent;
+}

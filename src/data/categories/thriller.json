@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Te gustan los thrillers psicológicos o los thrillers de acción?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Thrillers psicológicos",
+                "image": "https://example.com/psychological_thrillers.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Thrillers de acción",
+                "image": "https://example.com/action_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Prefieres los thrillers de misterio o los thrillers de suspense?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Thrillers de misterio",
+                "image": "https://example.com/mystery_thrillers.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Thrillers de suspense",
+                "image": "https://example.com/suspense_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Te gustan los thrillers políticos o los thrillers de conspiraciones?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Thrillers políticos",
+                "image": "https://example.com/political_thrillers.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Thrillers de conspiraciones",
+                "image": "https://example.com/conspiracy_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Prefieres los thrillers de crimen o los thrillers de espionaje?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Thrillers de crimen",
+                "image": "https://example.com/crime_thrillers.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Thrillers de espionaje",
+                "image": "https://example.com/spy_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Te gustan los thrillers con giros inesperados o los thrillers más predecibles?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Thrillers con giros inesperados",
+                "image": "https://example.com/thrillers_with_twists.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Thrillers más predecibles",
+                "image": "https://example.com/more_predictable_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Prefieres los thrillers de venganza o los thrillers de intriga?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Thrillers de venganza",
+                "image": "https://example.com/revenge_thrillers.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Thrillers de intriga",
+                "image": "https://example.com/intrigue_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Te gustan los thrillers sobrenaturales o los thrillers tecnológicos?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Thrillers sobrenaturales",
+                "image": "https://example.com/supernatural_thrillers.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Thrillers tecnológicos",
+                "image": "https://example.com/technological_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Prefieres los thrillers de persecución o los thrillers de secuestro?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Thrillers de persecución",
+                "image": "https://example.com/chase_thrillers.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Thrillers de secuestro",
+                "image": "https://example.com/kidnapping_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Te gustan los thrillers de conspiraciones gubernamentales o los thrillers de asesinos en serie?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Thrillers de conspiraciones gubernamentales",
+                "image": "https://example.com/government_conspiracy_thrillers.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Thrillers de asesinos en serie",
+                "image": "https://example.com/serial_killer_thrillers.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Prefieres los thrillers con atmósfera claustrofóbica o los thrillers de acción trepidante?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Thrillers con atmósfera claustrofóbica",
+                "image": "https://example.com/claustrophobic_thrillers.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Thrillers de acción trepidante",
+                "image": "https://example.com/high-octane_thrillers.jpg"
+            }
+        ]
+    }
+]

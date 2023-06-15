@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Cuál es tu película de ciencia ficción favorita?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Matrix",
+                "image": "https://example.com/matrix.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Blade Runner",
+                "image": "https://example.com/blade_runner.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Prefieres viajes en el tiempo o viajes espaciales en la ciencia ficción?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Viajes en el tiempo",
+                "image": "https://example.com/time_travel.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Viajes espaciales",
+                "image": "https://example.com/space_travel.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Cuál es tu libro de ciencia ficción favorito?",
+        "options": [
+            {
+                "id": 31,
+                "text": "1984",
+                "image": "https://example.com/1984.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Dune",
+                "image": "https://example.com/dune.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gustan las historias con inteligencia artificial?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Sí",
+                "image": "https://example.com/ai.jpg"
+            },
+            {
+                "id": 42,
+                "text": "No",
+                "image": "https://example.com/no_ai.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres las distopías o las utopías en la ciencia ficción?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Distopías",
+                "image": "https://example.com/dystopia.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Utopías",
+                "image": "https://example.com/utopia.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Cuál es tu serie de ciencia ficción favorita?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Black Mirror",
+                "image": "https://example.com/black_mirror.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Stranger Things",
+                "image": "https://example.com/stranger_things.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Te gusta la temática de extraterrestres en la ciencia ficción?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Sí",
+                "image": "https://example.com/aliens.jpg"
+            },
+            {
+                "id": 72,
+                "text": "No",
+                "image": "https://example.com/no_aliens.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Prefieres las historias de robots o de cyborgs en la ciencia ficción?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Robots",
+                "image": "https://example.com/robots.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Cyborgs",
+                "image": "https://example.com/cyborgs.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Te gustan las películas de superhéroes en la ciencia ficción?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Sí",
+                "image": "https://example.com/superheroes.jpg"
+            },
+            {
+                "id": 92,
+                "text": "No",
+                "image": "https://example.com/no_superheroes.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Cuál es tu videojuego de ciencia ficción favorito?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Mass Effect",
+                "image": "https://example.com/mass_effect.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Fallout",
+                "image": "https://example.com/fallout.jpg"
+            }
+        ]
+    }
+]

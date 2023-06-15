@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres las películas de terror sobrenatural o las películas de terror psicológico?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Películas de terror sobrenatural",
+                "image": "https://example.com/supernatural_horror_movies.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Películas de terror psicológico",
+                "image": "https://example.com/psychological_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gustan más las películas de terror de monstruos o las películas de terror de fantasmas?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Películas de terror de monstruos",
+                "image": "https://example.com/monster_horror_movies.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Películas de terror de fantasmas",
+                "image": "https://example.com/ghost_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres las películas de terror de asesinos en serie o las películas de terror de criaturas sobrenaturales?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Películas de terror de asesinos en serie",
+                "image": "https://example.com/serial_killer_horror_movies.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Películas de terror de criaturas sobrenaturales",
+                "image": "https://example.com/supernatural_creature_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te interesan más las películas de terror de casas embrujadas o las películas de terror de posesiones?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Películas de terror de casas embrujadas",
+                "image": "https://example.com/haunted_house_horror_movies.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Películas de terror de posesiones",
+                "image": "https://example.com/possession_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres las películas de terror de zombies o las películas de terror de vampiros?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Películas de terror de zombies",
+                "image": "https://example.com/zombie_horror_movies.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Películas de terror de vampiros",
+                "image": "https://example.com/vampire_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gustan más las películas de terror de entidades malignas o las películas de terror de fenómenos inexplicables?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Películas de terror de entidades malignas",
+                "image": "https://example.com/evil_entity_horror_movies.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Películas de terror de fenómenos inexplicables",
+                "image": "https://example.com/unexplained_phenomenon_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres las películas de terror de caza de monstruos o las películas de terror de experimentos científicos?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Películas de terror de caza de monstruos",
+                "image": "https://example.com/monster_hunting_horror_movies.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Películas de terror de experimentos científicos",
+                "image": "https://example.com/scientific_experiment_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te interesan más las películas de terror de sectas o las películas de terror de maldiciones?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Películas de terror de sectas",
+                "image": "https://example.com/cult_horror_movies.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Películas de terror de maldiciones",
+                "image": "https://example.com/curse_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres las películas de terror de venganza o las películas de terror de sucesos paranormales?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Películas de terror de venganza",
+                "image": "https://example.com/revenge_horror_movies.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Películas de terror de sucesos paranormales",
+                "image": "https://example.com/paranormal_events_horror_movies.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gustan más las películas de terror de violencia extrema o las películas de terror de suspenso psicológico?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Películas de terror de violencia extrema",
+                "image": "https://example.com/extreme_violence_horror_movies.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Películas de terror de suspenso psicológico",
+                "image": "https://example.com/psychological_thriller_horror_movies.jpg"
+            }
+        ]
+    }
+]

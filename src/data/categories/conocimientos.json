@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres aprender sobre ciencia o historia?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Ciencia",
+                "image": "https://example.com/science.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Historia",
+                "image": "https://example.com/history.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te interesa más la literatura o la música?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Literatura",
+                "image": "https://example.com/literature.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Música",
+                "image": "https://example.com/music.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres aprender sobre matemáticas o filosofía?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Matemáticas",
+                "image": "https://example.com/mathematics.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Filosofía",
+                "image": "https://example.com/philosophy.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te gusta más la astronomía o la psicología?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Astronomía",
+                "image": "https://example.com/astronomy.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Psicología",
+                "image": "https://example.com/psychology.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres aprender sobre tecnología o arte?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Tecnología",
+                "image": "https://example.com/technology.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Arte",
+                "image": "https://example.com/art.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te interesa más la biología o la economía?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Biología",
+                "image": "https://example.com/biology.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Economía",
+                "image": "https://example.com/economics.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres aprender sobre geografía o política?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Geografía",
+                "image": "https://example.com/geography.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Política",
+                "image": "https://example.com/politics.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te gusta más la lingüística o la sociología?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Lingüística",
+                "image": "https://example.com/linguistics.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Sociología",
+                "image": "https://example.com/sociology.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres aprender sobre medicina o educación?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Medicina",
+                "image": "https://example.com/medicine.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Educación",
+                "image": "https://example.com/education.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te interesa más la física o la antropología?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Física",
+                "image": "https://example.com/physics.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Antropología",
+                "image": "https://example.com/anthropology.jpg"
+            }
+        ]
+    }
+]

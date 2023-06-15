@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "¿Prefieres los musicales clásicos o los musicales contemporáneos?",
+        "options": [
+            {
+                "id": 11,
+                "text": "Musicales clásicos",
+                "image": "https://example.com/classic_musicals.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Musicales contemporáneos",
+                "image": "https://example.com/contemporary_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "¿Te gustan más los musicales de Broadway o los musicales de películas?",
+        "options": [
+            {
+                "id": 21,
+                "text": "Musicales de Broadway",
+                "image": "https://example.com/broadway_musicals.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Musicales de películas",
+                "image": "https://example.com/movie_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "¿Prefieres los musicales de drama o los musicales de comedia?",
+        "options": [
+            {
+                "id": 31,
+                "text": "Musicales de drama",
+                "image": "https://example.com/drama_musicals.jpg"
+            },
+            {
+                "id": 32,
+                "text": "Musicales de comedia",
+                "image": "https://example.com/comedy_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "¿Te interesan más los musicales de romance o los musicales de fantasía?",
+        "options": [
+            {
+                "id": 41,
+                "text": "Musicales de romance",
+                "image": "https://example.com/romance_musicals.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Musicales de fantasía",
+                "image": "https://example.com/fantasy_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "¿Prefieres los musicales de rock o los musicales de jazz?",
+        "options": [
+            {
+                "id": 51,
+                "text": "Musicales de rock",
+                "image": "https://example.com/rock_musicals.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Musicales de jazz",
+                "image": "https://example.com/jazz_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "¿Te gustan más los musicales de baile o los musicales de ópera?",
+        "options": [
+            {
+                "id": 61,
+                "text": "Musicales de baile",
+                "image": "https://example.com/dance_musicals.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Musicales de ópera",
+                "image": "https://example.com/opera_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "¿Prefieres los musicales de teatro en vivo o los musicales grabados?",
+        "options": [
+            {
+                "id": 71,
+                "text": "Musicales de teatro en vivo",
+                "image": "https://example.com/live_theater_musicals.jpg"
+            },
+            {
+                "id": 72,
+                "text": "Musicales grabados",
+                "image": "https://example.com/recorded_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "¿Te interesan más los musicales basados en hechos reales o los musicales de ficción?",
+        "options": [
+            {
+                "id": 81,
+                "text": "Musicales basados en hechos reales",
+                "image": "https://example.com/real_life_musicals.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Musicales de ficción",
+                "image": "https://example.com/fiction_musicals.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "¿Prefieres los musicales con números musicales elaborados o los musicales con canciones más íntimas?",
+        "options": [
+            {
+                "id": 91,
+                "text": "Musicales con números musicales elaborados",
+                "image": "https://example.com/elaborate_musical_numbers.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Musicales con canciones más íntimas",
+                "image": "https://example.com/intimate_musical_songs.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "¿Te gustan más los musicales con temáticas históricas o los musicales contemporáneos?",
+        "options": [
+            {
+                "id": 101,
+                "text": "Musicales con temáticas históricas",
+                "image": "https://example.com/historical_musicals.jpg"
+            },
+            {
+                "id": 102,
+                "text": "Musicales contemporáneos",
+                "image": "https://example.com/contemporary_musicals_2.jpg"
+            }
+        ]
+    }
+]

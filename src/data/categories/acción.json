@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "Protagonistas masculinos o femeninos",
+        "options": [
+            {
+                "id": 11,
+                "text": "Protagonistas masculinos",
+                "image": "https://cdn.pixabay.com/photo/2017/02/04/12/25/man-2037255_640.jpg"
+            },
+            {
+                "id": 12,
+                "text": "Protagonistas femeninos",
+                "image": "https://cdn.pixabay.com/photo/2016/11/21/12/35/woman-1845100_640.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Moderno o clásico",
+        "options": [
+            {
+                "id": 21,
+                "text": "Moderno",
+                "image": "https://cdn.pixabay.com/photo/2020/07/19/09/55/man-5419522_640.jpg"
+            },
+            {
+                "id": 22,
+                "text": "Clásico",
+                "image": "https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537_640.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Realista o sobrenatural",
+        "options": [
+            {
+                "id": 31,
+                "text": "Realista",
+                "image": "https://images.unsplash.com/photo-1518929458119-e5bf444c30f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVsJUMzJUFEY3VsYSUyMHJlYWxpc3RhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": 32,
+                "text": "Sobrenatural",
+                "image": "https://images.unsplash.com/photo-1543958892-44b098374a87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVhbGlzdGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Lucha cuerpo a cuerpo o tiroteos",
+        "options": [
+            {
+                "id": 41,
+                "text": "Lucha cuerpo a cuerpo",
+                "image": "https://cdn.pixabay.com/photo/2019/07/15/12/27/boxing-4339271_640.jpg"
+            },
+            {
+                "id": 42,
+                "text": "Tiroteos",
+                "image": "https://images.unsplash.com/photo-1605092262243-28c74cfc74c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVsZWElMjBhcm1hc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Espionaje o venganza",
+        "options": [
+            {
+                "id": 51,
+                "text": "Espionaje",
+                "image": "https://cdn.pixabay.com/photo/2016/11/29/02/07/drone-1866742_640.jpg"
+            },
+            {
+                "id": 52,
+                "text": "Venganza",
+                "image": "https://images.unsplash.com/photo-1621112657062-d7a5c30b7286?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dmVuZ2Fuc3phfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Efectos especiales o combate cuerpo a cuerpo",
+        "options": [
+            {
+                "id": 61,
+                "text": "Efectos especiales",
+                "image": "https://cdn.pixabay.com/photo/2015/10/29/05/39/atomic-bomb-1011738_640.jpg"
+            },
+            {
+                "id": 62,
+                "text": "Combate cuerpo a cuerpo",
+                "image": "https://cdn.pixabay.com/photo/2019/07/15/12/27/boxing-4339271_640.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "Superhéroes o espías",
+        "options": [
+            {
+                "id": 71,
+                "text": "Superhéroes",
+                "image": "https://images.unsplash.com/photo-1534809027769-b00d750a6bac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3VwZXJoZXJvZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "id": 72,
+                "text": "Espías",
+                "image": "https://cdn.pixabay.com/photo/2018/02/04/06/15/silhouette-3129148_640.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Persecución en coche o pelea en altura",
+        "options": [
+            {
+                "id": 81,
+                "text": "Persecución en coche",
+                "image": "https://cdn.pixabay.com/photo/2016/01/22/14/51/muscle-car-1155884_640.jpg"
+            },
+            {
+                "id": 82,
+                "text": "Pelea en altura",
+                "image": "https://plus.unsplash.com/premium_photo-1661939833710-6a7548ceacb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGVsZWElMjBhdmlvbmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "Atracos o supervivencia",
+        "options": [
+            {
+                "id": 91,
+                "text": "Atracos",
+                "image": "https://cdn.pixabay.com/photo/2019/05/02/13/04/thief-4173477_640.jpg"
+            },
+            {
+                "id": 92,
+                "text": "Supervivencia",
+                "image": "https://cdn.pixabay.com/photo/2015/08/13/20/06/flower-887443_1280.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "Solitario o en equipo",
+        "options": [
+            {
+                "id": 101,
+                "text": "Solitario",
+                "image": "https://cdn.pixabay.com/photo/2020/12/21/19/05/window-5850628_640.png"
+            },
+            {
+                "id": 102,
+                "text": "Equipo",
+                "image": "https://cdn.pixabay.com/photo/2016/03/27/07/38/police-1282330_640.jpg"
+            }
+        ]
+    }
+]
