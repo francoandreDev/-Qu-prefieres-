@@ -3,9 +3,7 @@ import Slider from '../Slider/Slider';
 import HighlightWrapper from '../highlight-wrapper/HighlightWrapper';
 import ContainerApp from '../ContainerApp/ContainerApp';
 
-import categoriesJson from '../../data/categories.json';
-
-import acción from '../../data/categories/acción'
+import acción from '../../data/categories/acción.json'
 import animales from '../../data/categories/animales.json';
 import aventura from '../../data/categories/aventura.json';
 import casas from '../../data/categories/casas.json';
@@ -14,17 +12,17 @@ import comedia from '../../data/categories/comedia.json'
 import comida from '../../data/categories/comida.json';
 import conocimiento from '../../data/categories/conocimientos.json';
 import deportes from '../../data/categories/deportes.json';
-import documental from '../../data/categories/documental'
+import documental from '../../data/categories/documental.json'
 import drama from '../../data/categories/drama.json'
 import fantasía from '../../data/categories/fantasía.json'
 import histórico from '../../data/categories/histórico.json'
 import misterio from '../../data/categories/misterio.json'
-import musical from '../../data/categories/musical'
-import preguntas from '../../data/categories/questions';
+import musical from '../../data/categories/musical.json'
+import preguntas from '../../data/categories/questions.json';
 import romance from '../../data/categories/romance.json';
 import superPoderes from '../../data/categories/super-poderes.json';
 import suspenso from '../../data/categories/suspenso.json'
-import terror from '../../data/categories/terror'
+import terror from '../../data/categories/terror.json'
 import thriller from '../../data/categories/thriller.json'
 import viajes from '../../data/categories/viajes.json'
 
